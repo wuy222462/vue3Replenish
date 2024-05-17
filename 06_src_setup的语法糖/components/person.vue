@@ -1,5 +1,5 @@
-<!--<script lang="ts">-->
-<!--//专门配置组件名字的script 标签-->
+<!-- <script lang="ts">-->
+<!-- 专门配置组件名字的script 标签-->
 <!--export default {-->
 <!--  name: "Person",-->
 <!--}-->
